@@ -1,2 +1,3 @@
-# IL181
-Antonio's repository for Minerva Schools IL181 class
+# Taarifa Water Pumps
+
+Sample solution for DrivenData's Taarifa Water Pumps challenge, or the "Pump it up: Data Mining the Water Table" challenge
