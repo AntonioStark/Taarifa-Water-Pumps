@@ -6,4 +6,5 @@ The official challenge website: https://www.drivendata.org/competitions/7/pump-i
 
 There are two medium articles that explains the code:
 Part 1: EDA and Data Preprocessing: https://medium.com/@antoniostark/50ba6ea65c0a
+
 Part 2: Predictive Modeling Classifiers:
