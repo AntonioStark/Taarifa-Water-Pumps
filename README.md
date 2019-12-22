@@ -8,4 +8,4 @@ There are two medium articles that explain the code:
 
 Part 1: EDA and Data Preprocessing: https://medium.com/@antoniostark/50ba6ea65c0a
 
-Part 2: Predictive Modeling Classifiers:
+Part 2: Predictive Modeling Classifiers: https://medium.com/@antoniostark/a4d2c428a2eb
